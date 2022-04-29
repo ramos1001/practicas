@@ -1,0 +1,31 @@
+h1{
+    font-size: 16px;
+}
+.inicial{
+    color: red;
+    text-decoration: underline;
+}
+
+.secundario{
+    color: blue;
+}
+
+input{
+    width: 100px;
+}
+
+.grande{
+    position: absolute;
+    left: 100px;
+    width:300px;
+}
+
+.chico{
+    position: absolute;
+    left: 100px;
+}
+
+#btnJugar{
+    position: absolute;
+    top: 330px; left: 400px;
+}
